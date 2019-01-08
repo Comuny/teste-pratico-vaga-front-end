@@ -1,0 +1,1 @@
+// defina os tipos para o reducer e saga se comunicarem com o action :)
