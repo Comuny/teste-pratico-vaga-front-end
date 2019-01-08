@@ -1,10 +1,15 @@
 # Como começar?
 
 1 - Clone em seu computador 
+
 2 - Crie um branch com o seu nome completo
+
 3 - Dê um commit quando iniciar
+
 4 - Programe uhul
+
 5 - Dê um commit quando finalizar
+
 6 - Dê um pull request.
 
 
