@@ -1,6 +1,3 @@
-# teste-pratico-vaga-front-end
-Teste prático para a vaga de front-end 
-
 # Como começar?
 
 1 - Clone em seu computador 
