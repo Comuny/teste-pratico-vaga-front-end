@@ -41,3 +41,8 @@ Este projeto consiste no uso de Reactjs, redux, redux-saga, sass, e bootstrap, a
 9 - No "Resultados" aparecerá o resultado da pesquisa do item 8, e também afetará os campos abaixo dele.
 
 10 - Os campos deverão ser editaveis, pois na apido google maps não virá todos os campos.
+
+
+Qualquer dúvida, mande um e-mail para debora.goncalves@comuny.com.br !
+
+Contamos com você \o/
