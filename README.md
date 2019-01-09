@@ -6,7 +6,7 @@
 
 3 - Dê um commit quando iniciar;
 
-4 - Programe uhul;
+4 - Programe! uuhuuul \o/;
 
 5 - Dê um commit quando finalizar;
 
